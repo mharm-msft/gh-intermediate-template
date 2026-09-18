@@ -4,7 +4,8 @@
 ![Continuous Delivery](https://github.com/mharm-msft/gh-intermediate-template/actions/workflows/continuous-delivery.yml/badge.svg)
 ![Coverage](./badges/coverage.svg)
 
-Badges above reflect the validation workflows present in this template.
+The previous CodeQL and linter badges were omitted because this template does
+not include corresponding `codeql.yml` or `linter.yml` workflow files.
 
 This is your project repository for the GitHub Intermediate training offering.
 Within this repository, you will find a number of issues that you will be
